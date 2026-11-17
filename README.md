@@ -1,5 +1,7 @@
 # PayteqChallange
 
+> **Before you start:** We know this looks like a lot and, to many people, it can feel confusing. Do yourself a favour: **do not overthink it. This is easier than you think.** Start with the Excel workbook, then explain how you would take the product further. The suggestions are there to encourage ideas; you are not expected to build every possible app or create every promotional item.
+
 ## From a wedding planner to a digital product business
 
 **A candidate challenge in spreadsheet engineering, product thinking, business design and creative promotion.**
@@ -9,8 +11,8 @@
 | Project owner | Johan Botha |
 | Handout | Wednesday, 18 November 2026, morning |
 | Submission deadline | **Thursday, 19 November 2026, 12:00 SAST (UTC+02:00)** |
-| Required | A working Excel template, validation evidence, a presentation and promotional concepts |
-| Optional | A small software mock-up or prototype |
+| Required | A working Excel template, validation evidence and a presentation explaining your business/system proposal |
+| Optional | Promotional ideas/creative examples (Section 3), and a small software mock-up or prototype |
 | AI | Permitted, with disclosure and verification |
 | Reference pack | [21 Excel worksheet images and gallery](references/README.md) |
 
@@ -115,19 +117,21 @@ Compare the alternatives, choose a sensible starting point, identify what you wo
 
 A small prototype or clickable mock-up is welcome, but **optional**. A strong documented proposal can earn full marks for this part. Any demonstration must clearly distinguish working behaviour, simulated behaviour and future ideas.
 
-## 3. Promote the idea creatively — required
+## 3. Promotion ideas — optional suggestions
 
-Show how you would take an already-selling idea and improve its presentation, reach and conversion.
+It would be nice to hear your ideas for taking an already-selling product further. This section is inspiration for discussion, **not a list of required deliverables**.
 
-Consider marketplace listings and product previews, flyers, printable notebooks/workbooks, planner inserts, social advertisements, short video concepts, bundles, partnerships with wedding professionals and other channels you can justify. Explain what you would create, for whom, where it would appear and how you would measure it.
+You might consider:
 
-Submit at least:
+- A flyer and where you would distribute it.
+- A social/digital advertisement, its audience and message.
+- A notebook, printable workbook, planner insert or bundle that complements the template.
+- Better marketplace listings, product previews, short videos or partnerships with wedding professionals.
+- Other creative ways to promote the product that you believe would work.
 
-1. **One flyer concept** with a clear audience, promise and call to action.
-2. **One social/digital ad concept** with sample visual/copy, placement and destination.
-3. **One notebook, printable or bundle concept**, showing how it complements the core product and whether it is a download, physical item or both.
+Choose whatever interests you and explain what you would do, why, for whom and through which channel. A few clear written ideas or a discussion slide are enough. If you enjoy making things, you are welcome to include a simple flyer, ad or notebook mock-up, but **none of these is compulsory**. You do not need to cover every suggestion or produce finished creative assets.
 
-These may be simple mock-ups inside the presentation or separate files. Show actual sample creative work, not just the words “make a flyer” or “run ads.” Explain the relationship between the creative, the customer journey and the proposed offer. Use original or appropriately licensed assets and identify third-party sources. Do not publish a live listing, run paid advertising, contact customers or incur costs for this exercise.
+If you include visuals, use original or appropriately licensed assets and identify third-party sources. Do not publish a live listing, run paid advertising, contact customers or incur costs for this exercise. Leaving this optional section out carries no assessment penalty.
 
 ## 4. Explain the project in a presentation — required
 
@@ -138,7 +142,7 @@ Provide a PDF presentation, preferably around **10–15 well-structured slides**
 - Your proposed offers, licensing, monetisation and commercial assumptions.
 - The operating/business control system and proposed architecture.
 - Your platform choices, trade-offs and phased roadmap.
-- Your flyer, ad and notebook/bundle concepts and launch plan.
+- Optional promotion ideas or creative examples, if you choose to explore Section 3.
 - Risks, research sources, limitations and recommended next steps.
 
 You may also supply an editable deck or a structured supporting document. No software prototype is required: the wider system may remain a well-explained documented concept. The Excel deliverable must still work.
@@ -158,7 +162,7 @@ submissions/your-name/
     Client-B.xlsx
   presentation/
     Proposal.pdf
-  creative/                    # Flyer/ad/notebook assets, if separate from the deck
+  creative/                    # Optional promotional examples, if you choose to include them
   validation.md
   ai-usage.md
   prototype/                   # Optional; include setup instructions if supplied
@@ -186,14 +190,13 @@ Deadline means the submission/PR must be available for review by that time. Clar
 
 | Area | Weight | What strong work demonstrates |
 | --- | ---: | --- |
-| Working Excel product and validation | 40% | Useful standalone workbook, complete coverage, correct calculations, reusable client copies and credible test evidence. |
-| Product and commercial thinking | 20% | Clear customer segmentation, defensible offers/licensing, realistic monetisation and stated assumptions. |
-| Business operations and system design | 15% | A coherent operating model, justified build/buy decisions, practical architecture and sensible platform trade-offs. |
-| Promotion and creative execution | 15% | Audience-specific flyer/ad/notebook concepts connected to a measurable acquisition plan. |
+| Working Excel product and validation | 45% | Useful standalone workbook, complete coverage, correct calculations, reusable client copies and credible test evidence. |
+| Product and commercial thinking | 25% | Clear customer segmentation, defensible offers/licensing, realistic monetisation and stated assumptions. |
+| Business operations and system design | 20% | A coherent operating model, justified build/buy decisions, practical architecture and sensible platform trade-offs. |
 | Presentation and submission quality | 10% | Clear narrative, organised files, honest limitations, research/asset credits and transparent AI use. |
 | **Total** | **100%** | |
 
-Prioritise a working, understandable product and reasoned decisions. Optional software does not automatically earn extra credit or compensate for a broken workbook. We are interested in your judgement, creativity and ability to turn a reference into something a real buyer could use.
+Prioritise a working, understandable product and reasoned decisions. Optional promotional work and software do not automatically earn extra credit, compensate for a broken workbook, or reduce your mark when omitted. We are interested in your judgement, creativity and ability to turn a reference into something a real buyer could use.
 
 ## Ownership, licence and boundaries
 
