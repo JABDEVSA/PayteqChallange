@@ -1,0 +1,16 @@
+# Keep private and machine-specific files out of candidate submissions.
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.pfx
+*.p12
+*.log
+~$*
+.DS_Store
+Thumbs.db
+node_modules/
+.venv/
+__pycache__/
+.vs/
