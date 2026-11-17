@@ -2,37 +2,39 @@
 
 [Return to the candidate brief](../README.md)
 
-These 21 screenshots are owner-provided demonstration planning screens. They are visual and functional references for your Excel design, not a supplied workbook, a required software architecture, or evidence of commercial sales. The screenshots depict a web-style interface: translate it into appropriate Excel worksheets, inputs, formulas and navigation.
+These 21 images are owner-provided **Excel worksheet previews**. They are the reference for building your own functioning workbook. The editable workbook and its underlying formulas are not supplied.
 
-The sample couple, contacts and figures are fictional demonstration content. Dates and totals are illustrative; use your own consistent fictional dataset and verify your calculations. Some views show only part of a longer table or page. Where behaviour or fields are unclear, record reasonable assumptions in your submission rather than inventing hidden requirements.
+The sample couple, contacts and figures are fictional demonstration content. Dates and totals are illustrative; use your own consistent fictional dataset and verify your calculations. Some images show a selected worksheet region rather than the entire sheet. Where behaviour or fields are unclear, record reasonable assumptions in your submission.
 
-Each planning area must be accounted for in your screenshot-to-sheet mapping. You may combine related areas if all functionality is covered and the workbook remains easy to use. Screenshots are supplied under the [assessment-only licence](../LICENSE); ownership notices and branding are not a transfer of rights.
+Each planning area must be accounted for in your screenshot-to-sheet mapping. You may combine related areas if all functionality is covered and the workbook remains easy to use. Older previews may show an on-sheet planning menu; your solution may use native Excel worksheet tabs. These are visual references, not a requirement to reproduce obsolete navigation.
+
+The images are supplied under the [assessment-only licence](../LICENSE); ownership notices and branding are not a transfer of rights.
 
 ## Screen index
 
 | # | Planning area | Full-size reference |
 | --- | --- | --- |
-| 01 | Dashboard | [Open screenshot](screenshots/01-dashboard.jpg) |
-| 02 | Setup | [Open screenshot](screenshots/02-setup.jpg) |
-| 03 | Save the date | [Open screenshot](screenshots/03-save-the-date.jpg) |
-| 04 | Theme board | [Open screenshot](screenshots/04-theme-board.jpg) |
-| 05 | Calendar | [Open screenshot](screenshots/05-calendar.jpg) |
-| 06 | Planning timeline | [Open screenshot](screenshots/06-planning-timeline.jpg) |
-| 07 | Wedding itinerary | [Open screenshot](screenshots/07-wedding-itinerary.jpg) |
-| 08 | Packing list | [Open screenshot](screenshots/08-packing-list.jpg) |
-| 09 | Vendor choices | [Open screenshot](screenshots/09-vendor-choices.jpg) |
-| 10 | Venue options | [Open screenshot](screenshots/10-venue-options.jpg) |
-| 11 | Wedding budget | [Open screenshot](screenshots/11-wedding-budget.jpg) |
-| 12 | Contact directory | [Open screenshot](screenshots/12-contact-directory.jpg) |
-| 13 | Guest list | [Open screenshot](screenshots/13-guest-list.jpg) |
-| 14 | Seating plan | [Open screenshot](screenshots/14-seating-plan.jpg) |
-| 15 | Wedding party | [Open screenshot](screenshots/15-wedding-party.jpg) |
-| 16 | Food and drinks | [Open screenshot](screenshots/16-food-drinks.jpg) |
-| 17 | Photoshoot | [Open screenshot](screenshots/17-photoshoot.jpg) |
-| 18 | Photo gallery | [Open screenshot](screenshots/18-photo-gallery.jpg) |
-| 19 | Music | [Open screenshot](screenshots/19-music.jpg) |
-| 20 | Gifts and thank you | [Open screenshot](screenshots/20-gifts-thank-you.jpg) |
-| 21 | Honeymoon budget | [Open screenshot](screenshots/21-honeymoon-budget.jpg) |
+| 01 | Dashboard | [Open Excel image](excel/01-dashboard.png) |
+| 02 | Setup | [Open Excel image](excel/02-setup.png) |
+| 03 | Save the date | [Open Excel image](excel/03-save-the-date.png) |
+| 04 | Theme board | [Open Excel image](excel/04-theme-board.png) |
+| 05 | Calendar | [Open Excel image](excel/05-calendar.png) |
+| 06 | Planning timeline | [Open Excel image](excel/06-planning-timeline.png) |
+| 07 | Wedding itinerary | [Open Excel image](excel/07-wedding-itinerary.png) |
+| 08 | Packing list | [Open Excel image](excel/08-packing-list.png) |
+| 09 | Vendor choices | [Open Excel image](excel/09-vendor-choices.png) |
+| 10 | Venue options | [Open Excel image](excel/10-venue-options.png) |
+| 11 | Wedding budget | [Open Excel image](excel/11-wedding-budget.png) |
+| 12 | Contact directory | [Open Excel image](excel/12-contact-directory.png) |
+| 13 | Guest list | [Open Excel image](excel/13-guest-list.png) |
+| 14 | Seating plan | [Open Excel image](excel/14-seating-plan.png) |
+| 15 | Wedding party | [Open Excel image](excel/15-wedding-party.png) |
+| 16 | Food and drinks | [Open Excel image](excel/16-food-drinks.png) |
+| 17 | Photoshoot | [Open Excel image](excel/17-photoshoot.png) |
+| 18 | Photo gallery | [Open Excel image](excel/18-photo-gallery.png) |
+| 19 | Music | [Open Excel image](excel/19-music.png) |
+| 20 | Gifts and thank you | [Open Excel image](excel/20-gifts-thank-you.png) |
+| 21 | Honeymoon budget | [Open Excel image](excel/21-honeymoon-budget.png) |
 
 ## Gallery
 
@@ -40,84 +42,84 @@ Open any image link above for its original resolution.
 
 ### 01. Dashboard
 
-![Dashboard demonstration screen](screenshots/01-dashboard.jpg)
+![Dashboard Excel worksheet preview](excel/01-dashboard.png)
 
 ### 02. Setup
 
-![Setup demonstration screen](screenshots/02-setup.jpg)
+![Setup Excel worksheet preview](excel/02-setup.png)
 
 ### 03. Save the date
 
-![Save the date demonstration screen](screenshots/03-save-the-date.jpg)
+![Save the date Excel worksheet preview](excel/03-save-the-date.png)
 
 ### 04. Theme board
 
-![Theme board demonstration screen](screenshots/04-theme-board.jpg)
+![Theme board Excel worksheet preview](excel/04-theme-board.png)
 
 ### 05. Calendar
 
-![Calendar demonstration screen](screenshots/05-calendar.jpg)
+![Calendar Excel worksheet preview](excel/05-calendar.png)
 
 ### 06. Planning timeline
 
-![Planning timeline demonstration screen](screenshots/06-planning-timeline.jpg)
+![Planning timeline Excel worksheet preview](excel/06-planning-timeline.png)
 
 ### 07. Wedding itinerary
 
-![Wedding itinerary demonstration screen](screenshots/07-wedding-itinerary.jpg)
+![Wedding itinerary Excel worksheet preview](excel/07-wedding-itinerary.png)
 
 ### 08. Packing list
 
-![Packing list demonstration screen](screenshots/08-packing-list.jpg)
+![Packing list Excel worksheet preview](excel/08-packing-list.png)
 
 ### 09. Vendor choices
 
-![Vendor choices demonstration screen](screenshots/09-vendor-choices.jpg)
+![Vendor choices Excel worksheet preview](excel/09-vendor-choices.png)
 
 ### 10. Venue options
 
-![Venue options demonstration screen](screenshots/10-venue-options.jpg)
+![Venue options Excel worksheet preview](excel/10-venue-options.png)
 
 ### 11. Wedding budget
 
-![Wedding budget demonstration screen](screenshots/11-wedding-budget.jpg)
+![Wedding budget Excel worksheet preview](excel/11-wedding-budget.png)
 
 ### 12. Contact directory
 
-![Contact directory demonstration screen](screenshots/12-contact-directory.jpg)
+![Contact directory Excel worksheet preview](excel/12-contact-directory.png)
 
 ### 13. Guest list
 
-![Guest list demonstration screen](screenshots/13-guest-list.jpg)
+![Guest list Excel worksheet preview](excel/13-guest-list.png)
 
 ### 14. Seating plan
 
-![Seating plan demonstration screen](screenshots/14-seating-plan.jpg)
+![Seating plan Excel worksheet preview](excel/14-seating-plan.png)
 
 ### 15. Wedding party
 
-![Wedding party demonstration screen](screenshots/15-wedding-party.jpg)
+![Wedding party Excel worksheet preview](excel/15-wedding-party.png)
 
 ### 16. Food and drinks
 
-![Food and drinks demonstration screen](screenshots/16-food-drinks.jpg)
+![Food and drinks Excel worksheet preview](excel/16-food-drinks.png)
 
 ### 17. Photoshoot
 
-![Photoshoot demonstration screen](screenshots/17-photoshoot.jpg)
+![Photoshoot Excel worksheet preview](excel/17-photoshoot.png)
 
 ### 18. Photo gallery
 
-![Photo gallery demonstration screen](screenshots/18-photo-gallery.jpg)
+![Photo gallery Excel worksheet preview](excel/18-photo-gallery.png)
 
 ### 19. Music
 
-![Music demonstration screen](screenshots/19-music.jpg)
+![Music Excel worksheet preview](excel/19-music.png)
 
 ### 20. Gifts and thank you
 
-![Gifts and thank you demonstration screen](screenshots/20-gifts-thank-you.jpg)
+![Gifts and thank you Excel worksheet preview](excel/20-gifts-thank-you.png)
 
 ### 21. Honeymoon budget
 
-![Honeymoon budget demonstration screen](screenshots/21-honeymoon-budget.jpg)
+![Honeymoon budget Excel worksheet preview](excel/21-honeymoon-budget.png)

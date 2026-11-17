@@ -12,17 +12,17 @@
 | Required | A working Excel template, validation evidence, a presentation and promotional concepts |
 | Optional | A small software mock-up or prototype |
 | AI | Permitted, with disclosure and verification |
-| Reference pack | [21 demonstration screenshots and image gallery](references/README.md) |
+| Reference pack | [21 Excel worksheet images and gallery](references/README.md) |
 
 > **Ownership and assessment-only notice:** This is Johan Botha's project. The supplied brief, screenshots, visual assets and other owner-provided materials are shared for this candidate assessment. Public access is not permission to claim ownership, hijack, rebrand, resell, commercially launch or sublicense these materials or an adaptation of them. Candidate adaptations are permitted for completing and submitting this assessment under the [LICENSE](LICENSE). No commercial rights or ownership transfer are granted. GitHub's platform rights and applicable law remain unaffected.
 
-![Wedding Planner reference dashboard](references/screenshots/01-dashboard.jpg)
+![Excel Wedding Planner dashboard reference](references/excel/01-dashboard.png)
 
 ## The opportunity
 
 For this exercise, assume the starting product is a wedding-planning Excel template that is already selling through a marketplace such as Etsy. It is a digital product: create and package the template once, advertise it, and deliver a downloadable copy to each purchaser. There is no need to manufacture a new workbook for every sale, although marketing, support, updates and selling costs still require work.
 
-You have been given screenshots of a wedding-planning experience. **Turn these references into a working Excel product, then explain how you would develop the idea into a stronger business.** You are being assessed as both a creator and someone who can make practical commercial and technical decisions.
+You have been given images of a wedding-planning Excel workbook. **Turn these references into a working Excel product, then explain how you would develop the idea into a stronger business.** You are being assessed as both a creator and someone who can make practical commercial and technical decisions.
 
 This is a scenario, not a claim about verified sales volumes, revenue, pricing or customer numbers. No private implementation, existing workbook, backend, customer database or financial information is supplied. Do not assume an undisclosed system exists or try to access one.
 
@@ -38,7 +38,7 @@ Consider the complete experience: discovery, purchase, download, first use, ongo
 
 Create an original, usable Excel workbook from the [reference screenshots](references/README.md). Translate the planning experience into spreadsheet functionality; do not paste screenshots into cells and call it a template.
 
-Cover all **21 planning areas** in the reference pack. You may combine related areas where that improves the workbook, but include a clear screenshot-to-sheet mapping so coverage is easy to assess. Use your own structure, formulas and design decisions. A pixel-for-pixel web-interface copy is not required.
+Cover all **21 planning areas** in the reference pack. You may combine related areas where that improves the workbook, but include a clear screenshot-to-sheet mapping so coverage is easy to assess. Use your own structure, formulas and design decisions. Pixel-perfect reproduction is not required.
 
 Your workbook must:
 
@@ -52,7 +52,7 @@ Your workbook must:
 - Support **Save As** copies for different clients. Demonstrate two independent client files with different details and no cross-workbook links or data leakage.
 - Be readable for everyday users, including useful print/PDF layouts for at least the budget and wedding-day itinerary.
 
-Where a reference shows a web action, use an appropriate Excel equivalent. For example, an editable table or worksheet tab can replace an application button. If a feature is simplified or cannot be implemented sensibly in Excel, explain the limitation and your alternative. Do not provide decorative controls that imply a working feature when none exists.
+Use actual worksheet tabs, tables and appropriate Excel controls. If a referenced feature is simplified or cannot be implemented sensibly in Excel, explain the limitation and your alternative. Do not provide decorative controls that imply a working feature when none exists.
 
 Specify the Excel version/platform you actually tested. Do not claim compatibility with versions you did not use. Optional automation or a software prototype does not replace the standalone workbook.
 
